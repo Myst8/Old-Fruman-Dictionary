@@ -2,6 +2,14 @@
 
 Expanding lookup for words in Old Fruman
 
+This program uses the python packages:
+
+PyQt6
+
+json
+
+sys
+
 
 This dictionary uses the agreed upon standard in the docs for this language, which is to say:
 
