@@ -46,6 +46,7 @@ class Word:
 
 class Dict:
     WordList = []
+    FILE_NAME = "dict.json"
 
     def AddWord(Roman, Translation = None):
         Match = False
@@ -56,11 +57,30 @@ class Dict:
             Dict.WordList.append(Word(Roman, Translation))
     
     def SaveDict():
-        json.encoder(Dict.WordList)
+        data = []
+        for word in Dict.WordList:
+            data.append({
+                "Roman": word.Roman,
+                "Translation": word.Translation
+            })
+
+        with open(Dict.FILE_NAME, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
 
 
     def LoadDict():
-        pass
+        try:
+            with open(Dict.FILE_NAME, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            Dict.WordList = []
+            for item in data:
+                Dict.WordList.append(
+                    Word(item["Roman"], item.get("Translation"))
+                )
+
+        except FileNotFoundError:
+            Dict.WordList = []
 
 class GlyphWidget(QWidget):
     def __init__(self):
@@ -202,6 +222,7 @@ class MainWindow(QWidget):
         self.input.textChanged.connect(self.update_dict)
     
     def update_dict(self):
+        Dict.SaveDict()
         self.layout.removeWidget(self.dict_view)
         self.dict_view = DictView(Dict.WordList, self)
         self.layout.addWidget(self.dict_view)
@@ -251,7 +272,6 @@ class WordRow(QWidget):
 class DictView(QScrollArea):
     def __init__(self, word_list, window):
         super().__init__()
-
         container = QWidget()
         layout = QVBoxLayout()
         word_list.sort(key = self.DictSort)
@@ -268,6 +288,7 @@ class DictView(QScrollArea):
     def DictSort(self, Word):
         return Word.Roman
 
+Dict.LoadDict()
 app = QApplication(sys.argv)
 window = MainWindow()
 window.resize(800, 300)
