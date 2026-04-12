@@ -136,14 +136,14 @@ class AddWordWindow(QWidget):
         self.roman_input.setText(self.main_window.input.text())
         self.roman_input.setPlaceholderText("Roman text")
         layout.addWidget(self.roman_input)
+        
+        self.preview = GlyphWidget()
+        self.preview.setMinimumHeight(25)
+        layout.addWidget(self.preview)
 
         self.translation_input = QLineEdit()
         self.translation_input.setPlaceholderText("Translation")
         layout.addWidget(self.translation_input)
-
-        self.preview = GlyphWidget()
-        self.preview.setMinimumHeight(50)
-        layout.addWidget(self.preview)
 
         self.roman_input.textChanged.connect(self.preview.setText)
 
