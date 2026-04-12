@@ -36,7 +36,6 @@ CodesLUT = {
     "8" : "1001110100001010011101100000101100010001100000000",
     "9" : "1001110100001010011101100010101100010001100000000",
     "0" : "1110000001001000000101111110000000000000000000000",
-    " " : "0000000000000000000000000000000000000000000000000"
 }
 
 class Word:
@@ -140,6 +139,7 @@ class AddWordWindow(QWidget):
         self.preview = GlyphWidget()
         self.preview.setMinimumHeight(25)
         layout.addWidget(self.preview)
+        self.preview.setText(self.roman_input.text())
 
         self.translation_input = QLineEdit()
         self.translation_input.setPlaceholderText("Translation")
@@ -161,6 +161,7 @@ class AddWordWindow(QWidget):
             Dict.AddWord(roman, translation)
             self.main_window.update_dict()
             self.close()
+            Dict.SaveDict()
 
 class EditWindow(QWidget):
     def __init__(self, word, window):
@@ -187,6 +188,7 @@ class EditWindow(QWidget):
         self.word.Translation = self.input.text()
         self.window.update_dict()
         self.close()
+        Dict.SaveDict()
 
 class MainWindow(QWidget):
 
@@ -222,7 +224,6 @@ class MainWindow(QWidget):
         self.input.textChanged.connect(self.update_dict)
     
     def update_dict(self):
-        Dict.SaveDict()
         self.layout.removeWidget(self.dict_view)
         self.dict_view = DictView(Dict.WordList, self)
         self.layout.addWidget(self.dict_view)
@@ -268,6 +269,7 @@ class WordRow(QWidget):
     def Remove(self):
         Dict.WordList.remove(self.word)
         self.window.update_dict()
+        Dict.SaveDict()
 
 class DictView(QScrollArea):
     def __init__(self, word_list, window):
