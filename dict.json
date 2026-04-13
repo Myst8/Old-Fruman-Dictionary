@@ -148,6 +148,78 @@
         "Translation": "Attack"
     },
     {
+        "Roman": "CEF",
+        "Translation": "Defines as Statement, Particle"
+    },
+    {
+        "Roman": "CEFISAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "CEFOS",
+        "Translation": "Will be?"
+    },
+    {
+        "Roman": "CEFOSIS",
+        "Translation": "Will be Becoming?"
+    },
+    {
+        "Roman": "CEFTIF",
+        "Translation": "Transforms a sentance into an \"if\" statement"
+    },
+    {
+        "Roman": "CEKCIFNEC",
+        "Translation": ""
+    },
+    {
+        "Roman": "CEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "CELES",
+        "Translation": ""
+    },
+    {
+        "Roman": "CIFPAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "CILTUH",
+        "Translation": ""
+    },
+    {
+        "Roman": "CISTOD",
+        "Translation": ""
+    },
+    {
+        "Roman": "CISTODES",
+        "Translation": ""
+    },
+    {
+        "Roman": "COCKOCES",
+        "Translation": ""
+    },
+    {
+        "Roman": "COCUTSAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "COV",
+        "Translation": "With"
+    },
+    {
+        "Roman": "DAHAS",
+        "Translation": "To Hear"
+    },
+    {
+        "Roman": "DOTL",
+        "Translation": ""
+    },
+    {
+        "Roman": "DUHESNEF",
+        "Translation": "Outer Space/\"The Stars\" \"Stars Ocean\""
+    },
+    {
         "Roman": "ECNAH",
         "Translation": "To Establish"
     },
@@ -644,12 +716,1288 @@
         "Translation": "Grand/Great?"
     },
     {
+        "Roman": "KRICREKC",
+        "Translation": "To Graciously Give"
+    },
+    {
+        "Roman": "KRICRZ",
+        "Translation": ""
+    },
+    {
         "Roman": "KRICW",
         "Translation": ""
     },
     {
         "Roman": "KRIL",
         "Translation": ""
+    },
+    {
+        "Roman": "KROF",
+        "Translation": ""
+    },
+    {
+        "Roman": "KROTLUC",
+        "Translation": ""
+    },
+    {
+        "Roman": "KUHNAKCOS",
+        "Translation": ""
+    },
+    {
+        "Roman": "KUSSUH",
+        "Translation": ""
+    },
+    {
+        "Roman": "LACKOLES",
+        "Translation": ""
+    },
+    {
+        "Roman": "LAH",
+        "Translation": "it (reffering to inanimate\""
+    },
+    {
+        "Roman": "LAHAS",
+        "Translation": "Fox"
+    },
+    {
+        "Roman": "LAHES",
+        "Translation": "Tehy/Their \"Reffering to inanimate\""
+    },
+    {
+        "Roman": "LAHNAHRUHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "LAHOKCHASRAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "LAS",
+        "Translation": "Magic (May also mean God in some contexts)"
+    },
+    {
+        "Roman": "LASAH",
+        "Translation": "Divine/God"
+    },
+    {
+        "Roman": "LASEDNAHEFDAHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASIFRAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASKESLUD",
+        "Translation": "Gift"
+    },
+    {
+        "Roman": "LASLUDADHEFTALHAHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASNIFCIFIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASNIKCIFRAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASOSOS",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASPAHECNAHOS",
+        "Translation": "Will Establish"
+    },
+    {
+        "Roman": "LASPAHKACPEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASPAHNASOL",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASPESTRIKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASSASIFIFIFID",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASSECNOF",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASYEC",
+        "Translation": ""
+    },
+    {
+        "Roman": "LASZ",
+        "Translation": ""
+    },
+    {
+        "Roman": "LEDOKCRID",
+        "Translation": ""
+    },
+    {
+        "Roman": "LETSED",
+        "Translation": "To Follow"
+    },
+    {
+        "Roman": "LETSEDOS",
+        "Translation": "Will Follow"
+    },
+    {
+        "Roman": "LEVTUL",
+        "Translation": "To Deserve?"
+    },
+    {
+        "Roman": "LID",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOCED",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOCEDLOF",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOCESRULIS",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOFMOF",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOFMUHPAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "LOS",
+        "Translation": "Deer"
+    },
+    {
+        "Roman": "LOSDED",
+        "Translation": "Beast?"
+    },
+    {
+        "Roman": "LOSDEDES",
+        "Translation": "Beasts?"
+    },
+    {
+        "Roman": "LUDPED",
+        "Translation": ""
+    },
+    {
+        "Roman": "LUH",
+        "Translation": "And"
+    },
+    {
+        "Roman": "LUKCLAH",
+        "Translation": "To Change"
+    },
+    {
+        "Roman": "LUKCLAHIS",
+        "Translation": "To Be Changing"
+    },
+    {
+        "Roman": "LVIFRAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "NAH",
+        "Translation": "They(Singular)"
+    },
+    {
+        "Roman": "NAHACES",
+        "Translation": "They/Their People"
+    },
+    {
+        "Roman": "NAHES",
+        "Translation": "They(Group)"
+    },
+    {
+        "Roman": "NAHESHOF",
+        "Translation": ""
+    },
+    {
+        "Roman": "NAHKELEFRAH",
+        "Translation": "They/Their World"
+    },
+    {
+        "Roman": "NAHKOLES",
+        "Translation": ""
+    },
+    {
+        "Roman": "NAHREKC",
+        "Translation": "They/Their Give"
+    },
+    {
+        "Roman": "NAHSIFPAS",
+        "Translation": "They/Their Influence"
+    },
+    {
+        "Roman": "NAHTRITL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NASAHZ",
+        "Translation": "Winged Serpent Deity"
+    },
+    {
+        "Roman": "NASEF",
+        "Translation": "Persons Name"
+    },
+    {
+        "Roman": "NEC",
+        "Translation": "From"
+    },
+    {
+        "Roman": "NECAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NECEL",
+        "Translation": "This"
+    },
+    {
+        "Roman": "NEDEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NEDRID",
+        "Translation": ""
+    },
+    {
+        "Roman": "NEFAHPIFKUL",
+        "Translation": "Shore/Shoreline \"Ocean's End\""
+    },
+    {
+        "Roman": "NEFCOFMOS",
+        "Translation": "? \"Ocean with Will\""
+    },
+    {
+        "Roman": "NEFES",
+        "Translation": "Oceans"
+    },
+    {
+        "Roman": "NEFRAKC",
+        "Translation": "Nemract \"Ocean Command\""
+    },
+    {
+        "Roman": "NIC",
+        "Translation": ""
+    },
+    {
+        "Roman": "NICWNAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NID",
+        "Translation": "Demand"
+    },
+    {
+        "Roman": "NIDOS",
+        "Translation": "Will Demand"
+    },
+    {
+        "Roman": "NIFAHV",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIFES",
+        "Translation": "Settlements/Towns"
+    },
+    {
+        "Roman": "NIFKELES",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIFKELOS",
+        "Translation": "Will Abandon/Desert/Leave"
+    },
+    {
+        "Roman": "NIFLAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIFLAHES",
+        "Translation": "Creatures?"
+    },
+    {
+        "Roman": "NIFLOC",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIFNAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIFNEC",
+        "Translation": "Come/Go Towards"
+    },
+    {
+        "Roman": "NIFRAKC",
+        "Translation": "Societal Order \"Town Command\""
+    },
+    {
+        "Roman": "NIFTOC",
+        "Translation": "Visit"
+    },
+    {
+        "Roman": "NIFTOCOS",
+        "Translation": "Will Visit"
+    },
+    {
+        "Roman": "NIKC",
+        "Translation": "No/Nay/Negative"
+    },
+    {
+        "Roman": "NIKCAHV",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCALNESOS",
+        "Translation": "? \"Not ??? s Will\""
+    },
+    {
+        "Roman": "NIKCATL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCDAHASOSTIF",
+        "Translation": "If Will Not Listen"
+    },
+    {
+        "Roman": "NIKCDUTSICED",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCELADNALAH",
+        "Translation": "Not going to[Do Action]/Never?"
+    },
+    {
+        "Roman": "NIKCESPEC",
+        "Translation": "Filled/Full \"Not Empty\""
+    },
+    {
+        "Roman": "NIKCIFRAHREKCTIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCKRAH",
+        "Translation": "Not Sure/Secure"
+    },
+    {
+        "Roman": "NIKCKRECOL",
+        "Translation": "Will Not Question"
+    },
+    {
+        "Roman": "NIKCKROF",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCLALILOS",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCLETSEDOSTIF",
+        "Translation": "If Will Not Follow"
+    },
+    {
+        "Roman": "NIKCOL",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCPAHSOFMALEC",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCPAHSOFMALOS",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCPELASAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCPELASRED",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCPESIC",
+        "Translation": "Not Ready"
+    },
+    {
+        "Roman": "NIKCPICHULES",
+        "Translation": "Dangers"
+    },
+    {
+        "Roman": "NIKCRED",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCREFETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCROLAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCSESSED",
+        "Translation": ""
+    },
+    {
+        "Roman": "NIKCTRASPED",
+        "Translation": "Not Assume"
+    },
+    {
+        "Roman": "NISAHNOCES",
+        "Translation": ""
+    },
+    {
+        "Roman": "NOFMALES",
+        "Translation": ""
+    },
+    {
+        "Roman": "NUC",
+        "Translation": ""
+    },
+    {
+        "Roman": "NUCAHV",
+        "Translation": ""
+    },
+    {
+        "Roman": "NUHKAHNUH",
+        "Translation": ""
+    },
+    {
+        "Roman": "OC",
+        "Translation": ""
+    },
+    {
+        "Roman": "OFHAL",
+        "Translation": "Ravine"
+    },
+    {
+        "Roman": "OFHALES",
+        "Translation": "Ravines"
+    },
+    {
+        "Roman": "OFMACES",
+        "Translation": ""
+    },
+    {
+        "Roman": "OFMAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "OFMAHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "OKC",
+        "Translation": "Circle"
+    },
+    {
+        "Roman": "OKCAHV",
+        "Translation": ""
+    },
+    {
+        "Roman": "OL",
+        "Translation": ""
+    },
+    {
+        "Roman": "OLTELAC",
+        "Translation": "Representative"
+    },
+    {
+        "Roman": "OLTELACES",
+        "Translation": "Representatives"
+    },
+    {
+        "Roman": "OTS",
+        "Translation": "To Vote"
+    },
+    {
+        "Roman": "OTSACES",
+        "Translation": "Voters/Eloctorate"
+    },
+    {
+        "Roman": "OTSES",
+        "Translation": "Votes"
+    },
+    {
+        "Roman": "PACTEF",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHASTAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHECNAH",
+        "Translation": "To Establish"
+    },
+    {
+        "Roman": "PAHEKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHEKIFNIF",
+        "Translation": "To Expand"
+    },
+    {
+        "Roman": "PAHISAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHISAHED",
+        "Translation": "(Can) Be Seen"
+    },
+    {
+        "Roman": "PAHITSIFRAHEC",
+        "Translation": "To Cause ???"
+    },
+    {
+        "Roman": "PAHKESAL",
+        "Translation": "To be Named/Called"
+    },
+    {
+        "Roman": "PAHKIFNUS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHNIFKEL",
+        "Translation": "To Abandon/Leave"
+    },
+    {
+        "Roman": "PAHNIKCRECOS",
+        "Translation": "Will not Be/Have Potential?"
+    },
+    {
+        "Roman": "PAHNILED",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHOKCNIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHPESTAL",
+        "Translation": "To Ensure/Guarantee"
+    },
+    {
+        "Roman": "PAHPIFKUL",
+        "Translation": "To Finish/End"
+    },
+    {
+        "Roman": "PAHPRALASOS",
+        "Translation": "Will be Built/Constructed"
+    },
+    {
+        "Roman": "PAHPRALV",
+        "Translation": "To Build"
+    },
+    {
+        "Roman": "PAHREKSH",
+        "Translation": "To Give"
+    },
+    {
+        "Roman": "PAHRIVTOD",
+        "Translation": "To Return"
+    },
+    {
+        "Roman": "PAHSADILED",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHSASCAH",
+        "Translation": "To be Hunted"
+    },
+    {
+        "Roman": "PAHSECNOF",
+        "Translation": "To Disband"
+    },
+    {
+        "Roman": "PAHSECNOFMOS",
+        "Translation": "Will Disband/Dissolve"
+    },
+    {
+        "Roman": "PAHSOHAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHSUDEKCTIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "PAHTEFETS",
+        "Translation": "To Defend"
+    },
+    {
+        "Roman": "PAHTRASPED",
+        "Translation": "To Assume"
+    },
+    {
+        "Roman": "PAHYPETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PALAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "PALITS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PASAD",
+        "Translation": "Teachings/Wisdom/Info"
+    },
+    {
+        "Roman": "PASADREKC",
+        "Translation": "Teach"
+    },
+    {
+        "Roman": "PECETSLAH",
+        "Translation": "Soon/Near Future"
+    },
+    {
+        "Roman": "PECOD",
+        "Translation": ""
+    },
+    {
+        "Roman": "PECOL",
+        "Translation": ""
+    },
+    {
+        "Roman": "PELAS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PESAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "PESALPETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PESIC",
+        "Translation": "Ready/Prepared"
+    },
+    {
+        "Roman": "PESTAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "PESTALOS",
+        "Translation": "Will Ensure/Guarantee"
+    },
+    {
+        "Roman": "PESTRIKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PETSTAC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PICES",
+        "Translation": "Scribes"
+    },
+    {
+        "Roman": "PICHUL",
+        "Translation": "Safety/Security"
+    },
+    {
+        "Roman": "PILUKC",
+        "Translation": "Order (Organised)"
+    },
+    {
+        "Roman": "POKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "POKCES",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRACOF",
+        "Translation": "9"
+    },
+    {
+        "Roman": "PRAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRALAHASOSEC",
+        "Translation": "Will Cause to Cry"
+    },
+    {
+        "Roman": "PRALAS",
+        "Translation": "Build"
+    },
+    {
+        "Roman": "PRALASOS",
+        "Translation": "Will Build"
+    },
+    {
+        "Roman": "PRALOC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRASACAD",
+        "Translation": "Professions"
+    },
+    {
+        "Roman": "PRASACES",
+        "Translation": ""
+    },
+    {
+        "Roman": "PREC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRECES",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRICISPETSOSEC",
+        "Translation": "Will Cause ???"
+    },
+    {
+        "Roman": "PRIF",
+        "Translation": "East"
+    },
+    {
+        "Roman": "PRIFAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRIFAH",
+        "Translation": "East's"
+    },
+    {
+        "Roman": "PRIFECEFOS",
+        "Translation": "Will Send"
+    },
+    {
+        "Roman": "PRIFECNIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRIFTAC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRODOF",
+        "Translation": ""
+    },
+    {
+        "Roman": "PROF",
+        "Translation": "5"
+    },
+    {
+        "Roman": "PROFMUS",
+        "Translation": "6"
+    },
+    {
+        "Roman": "PROFRETS",
+        "Translation": "8"
+    },
+    {
+        "Roman": "PROFTUL",
+        "Translation": "7"
+    },
+    {
+        "Roman": "PRUDNEC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PRUTS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PULITS",
+        "Translation": ""
+    },
+    {
+        "Roman": "PULLAC",
+        "Translation": ""
+    },
+    {
+        "Roman": "PULOF",
+        "Translation": "More"
+    },
+    {
+        "Roman": "RACYES",
+        "Translation": ""
+    },
+    {
+        "Roman": "RAKC",
+        "Translation": "Command/Rule"
+    },
+    {
+        "Roman": "RAKCKACTELES",
+        "Translation": "Say Orders? (Commanding) \"Command Say ??? s\""
+    },
+    {
+        "Roman": "RAKCTRILTOD",
+        "Translation": "Empire"
+    },
+    {
+        "Roman": "RAKCW",
+        "Translation": "Ragni \"Commanding Town\""
+    },
+    {
+        "Roman": "RATSACES",
+        "Translation": "Council"
+    },
+    {
+        "Roman": "RECNAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "RED",
+        "Translation": "Potential"
+    },
+    {
+        "Roman": "REFES",
+        "Translation": ""
+    },
+    {
+        "Roman": "REFTIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "REKC",
+        "Translation": "Give"
+    },
+    {
+        "Roman": "RETS",
+        "Translation": "3"
+    },
+    {
+        "Roman": "RETSAL",
+        "Translation": "Third"
+    },
+    {
+        "Roman": "RIDOL",
+        "Translation": "(Part of a persons name)"
+    },
+    {
+        "Roman": "RITS",
+        "Translation": ""
+    },
+    {
+        "Roman": "RITSES",
+        "Translation": "Goodbye?"
+    },
+    {
+        "Roman": "ROFMEDES",
+        "Translation": ""
+    },
+    {
+        "Roman": "ROFMEDOS",
+        "Translation": ""
+    },
+    {
+        "Roman": "ROLAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "RUHDIFTULPRICTICRETSKAH",
+        "Translation": "\"?-?-Two-???-Ten-Three-?\" Big Number"
+    },
+    {
+        "Roman": "SASCAH",
+        "Translation": "Hunt"
+    },
+    {
+        "Roman": "SASCAHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "SASCAHX",
+        "Translation": "Owl Deity"
+    },
+    {
+        "Roman": "SATSEC",
+        "Translation": "Direct"
+    },
+    {
+        "Roman": "SECNOF",
+        "Translation": "Disband/Dissolve"
+    },
+    {
+        "Roman": "SEF",
+        "Translation": ""
+    },
+    {
+        "Roman": "SELECES",
+        "Translation": ""
+    },
+    {
+        "Roman": "SELETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "SELUHIS",
+        "Translation": "Seperating"
+    },
+    {
+        "Roman": "SETLREC",
+        "Translation": ""
+    },
+    {
+        "Roman": "SETSUC",
+        "Translation": "Future?"
+    },
+    {
+        "Roman": "SIDTIL",
+        "Translation": ""
+    },
+    {
+        "Roman": "SIF",
+        "Translation": "Still/Yet/Inevitably"
+    },
+    {
+        "Roman": "SIFED",
+        "Translation": ""
+    },
+    {
+        "Roman": "SIFKEL",
+        "Translation": "Cycle"
+    },
+    {
+        "Roman": "SIFOS",
+        "Translation": "Will Still/Yet/Inevitability"
+    },
+    {
+        "Roman": "SIFPAS",
+        "Translation": "Influence"
+    },
+    {
+        "Roman": "SIKCAHRAD",
+        "Translation": "Ragni (Anqiquated) \"??? Fort\""
+    },
+    {
+        "Roman": "SOFMALIS",
+        "Translation": ""
+    },
+    {
+        "Roman": "SOFTAHAL",
+        "Translation": ""
+    },
+    {
+        "Roman": "SOLKUTSEDEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "TACELISSUL",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAH",
+        "Translation": "I"
+    },
+    {
+        "Roman": "TAHCID",
+        "Translation": "Crucial?"
+    },
+    {
+        "Roman": "TAHES",
+        "Translation": "Us, We"
+    },
+    {
+        "Roman": "TAHKACTEL",
+        "Translation": "? \"I Say ???\""
+    },
+    {
+        "Roman": "TAHKOLES",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHKRAHALTELES",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHKRICOFMEDES",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHKUH",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHKUHAC",
+        "Translation": "Guild"
+    },
+    {
+        "Roman": "TAHNULPEF",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHPED",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHRAKCKACTELES",
+        "Translation": "My (Directive) Orders \"I Command ???\""
+    },
+    {
+        "Roman": "TAHREVETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "TAHRIL",
+        "Translation": ""
+    },
+    {
+        "Roman": "TEDISRAHES",
+        "Translation": ""
+    },
+    {
+        "Roman": "TEFETS",
+        "Translation": "Defend"
+    },
+    {
+        "Roman": "TEFETSOS",
+        "Translation": "Will Defend"
+    },
+    {
+        "Roman": "TEFRIS",
+        "Translation": "(Part of a Persons Name)"
+    },
+    {
+        "Roman": "TELIDACES",
+        "Translation": "Fisherman/men"
+    },
+    {
+        "Roman": "TESHALPETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "TIC",
+        "Translation": "10"
+    },
+    {
+        "Roman": "TIFUHES",
+        "Translation": "Tales"
+    },
+    {
+        "Roman": "TIL",
+        "Translation": ""
+    },
+    {
+        "Roman": "TILNIFAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOC",
+        "Translation": "Particle Destination indicator, similar to \"To/At/In\""
+    },
+    {
+        "Roman": "TOCEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOF",
+        "Translation": "You"
+    },
+    {
+        "Roman": "TOFCEV",
+        "Translation": "(You) Are"
+    },
+    {
+        "Roman": "TOFCOSES",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOFIFRAH",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOFMAHATSKRITSEC",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOFMES",
+        "Translation": "To Tame | Youse/you all"
+    },
+    {
+        "Roman": "TOFNIKCSIF",
+        "Translation": "(You) Wont Yet"
+    },
+    {
+        "Roman": "TOFNIKCSOFTAHAL",
+        "Translation": "(You) Do Not ??? (Directed at reader)"
+    },
+    {
+        "Roman": "TOFPAHNUC",
+        "Translation": ""
+    },
+    {
+        "Roman": "TOFPESTAL",
+        "Translation": "(You) Ensure/Guarantee"
+    },
+    {
+        "Roman": "TOFSIFOS",
+        "Translation": "(You) Will Still/Yet/Inevitably"
+    },
+    {
+        "Roman": "TOFTULPRAD",
+        "Translation": ""
+    },
+    {
+        "Roman": "TRALTEDOS",
+        "Translation": "Will Surrender/Give up"
+    },
+    {
+        "Roman": "TRASPED",
+        "Translation": "Assume"
+    },
+    {
+        "Roman": "TRASPEDIS",
+        "Translation": "Assuming"
+    },
+    {
+        "Roman": "TRASPEDTIF",
+        "Translation": "If to Assume"
+    },
+    {
+        "Roman": "TRILTOD",
+        "Translation": "Land"
+    },
+    {
+        "Roman": "TRITLRAKC",
+        "Translation": ""
+    },
+    {
+        "Roman": "TROFMAS",
+        "Translation": "Troms \"??? Farm\""
+    },
+    {
+        "Roman": "TRUH",
+        "Translation": "Simple"
+    },
+    {
+        "Roman": "TUL",
+        "Translation": "2"
+    },
+    {
+        "Roman": "TULAL",
+        "Translation": "Second"
+    },
+    {
+        "Roman": "TULATSOC",
+        "Translation": ""
+    },
+    {
+        "Roman": "UC",
+        "Translation": "Action on Subject"
+    },
+    {
+        "Roman": "UD",
+        "Translation": ""
+    },
+    {
+        "Roman": "US",
+        "Translation": "1"
+    },
+    {
+        "Roman": "USAL",
+        "Translation": "First"
+    },
+    {
+        "Roman": "USKADIS",
+        "Translation": ""
+    },
+    {
+        "Roman": "USSUL",
+        "Translation": "Way/Method"
+    },
+    {
+        "Roman": "USSULES",
+        "Translation": "Ways/Methods"
+    },
+    {
+        "Roman": "UTLNIF",
+        "Translation": ""
+    },
+    {
+        "Roman": "W",
+        "Translation": "Nii Rune"
+    },
+    {
+        "Roman": "WIL",
+        "Translation": "Burn/Enflame"
+    },
+    {
+        "Roman": "WILIS",
+        "Translation": "Burning/Flaming/Salamander Deity"
+    },
+    {
+        "Roman": "WILPETS",
+        "Translation": ""
+    },
+    {
+        "Roman": "WLAHIC",
+        "Translation": ""
+    },
+    {
+        "Roman": "WLAHRAKCTRILTOD",
+        "Translation": "? \"??? Empire\""
+    },
+    {
+        "Roman": "WNECIS",
+        "Translation": "Coming/Going Towards \"Motion from -ing\""
+    },
+    {
+        "Roman": "WNETL",
+        "Translation": ""
+    },
+    {
+        "Roman": "X",
+        "Translation": "Uth Rune"
+    },
+    {
+        "Roman": "XEF",
+        "Translation": ""
+    },
+    {
+        "Roman": "XROFMEL",
+        "Translation": ""
+    },
+    {
+        "Roman": "XW",
+        "Translation": "Volatile/Unstable"
+    },
+    {
+        "Roman": "YAS",
+        "Translation": ""
+    },
+    {
+        "Roman": "YOS",
+        "Translation": "Deer Deity"
     },
     {
         "Roman": "Z",
