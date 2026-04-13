@@ -163,6 +163,45 @@ class AddWordWindow(QWidget):
             self.close()
             Dict.SaveDict()
 
+class DeleteWindow(QWidget):
+    def __init__(self, word, window):
+        super().__init__()
+        
+        self.word = word
+        self.window = window
+        
+        self.setWindowTitle("Delete")
+        
+        layout = QVBoxLayout()
+        ButtonLayout = QHBoxLayout()
+        
+        label1 = QLabel("Are you sure you want to delete this entry?")
+        label2 = QLabel("This action cannot be undone")
+        layout.addWidget(label1)
+        layout.addWidget(label2)
+        self.cancel_bt = QPushButton("Cancel")
+        self.cancel_bt.clicked.connect(self.Cancel)
+        ButtonLayout.addWidget(self.cancel_bt)
+        
+        self.delete_bt = QPushButton("Delete")
+        self.delete_bt.clicked.connect(self.Delete)
+        ButtonLayout.addWidget(self.delete_bt)
+        
+        layout.addLayout(ButtonLayout)
+        
+        self.setLayout(layout)
+        print("test")
+        
+    def Delete(self):
+        Dict.WordList.remove(self.word)
+        self.window.update_dict()
+        self.close()
+        Dict.SaveDict()
+    
+    def Cancel(self):
+        self.close()
+        
+
 class EditWindow(QWidget):
     def __init__(self, word, window):
         super().__init__()
@@ -262,7 +301,7 @@ class WordRow(QWidget):
         self.edit_btn.clicked.connect(self.open_editor)
 
         self.del_btn = QPushButton("Remove Entry")
-        self.del_btn.clicked.connect(self.Remove)
+        self.del_btn.clicked.connect(self.DelCheck)
 
 
         layout.addWidget(self.glyph)
@@ -275,10 +314,9 @@ class WordRow(QWidget):
     def open_editor(self):
         self.editor = EditWindow(self.word, self.window)
         self.editor.show()
-    def Remove(self):
-        Dict.WordList.remove(self.word)
-        self.window.update_dict()
-        Dict.SaveDict()
+    def DelCheck(self):
+        self.Check = DeleteWindow(self.word, self.window)
+        self.Check.show()
 
 class DictView(QScrollArea):
     def __init__(self, word_list, window):
