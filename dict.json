@@ -29,7 +29,7 @@
     },
     {
         "Roman": "ACRAKCOS",
-        "Translation": "Will COmmand"
+        "Translation": "Will Command"
     },
     {
         "Roman": "ACRATSAC",
@@ -53,6 +53,10 @@
     },
     {
         "Roman": "AHAS",
+        "Translation": ""
+    },
+    {
+        "Roman": "AHATSKRITSEC",
         "Translation": ""
     },
     {
@@ -320,7 +324,7 @@
         "Translation": "Our World"
     },
     {
-        "Roman": "ETLKOTH",
+        "Roman": "ETLKOD",
         "Translation": "Elkurn \"Our River\""
     },
     {
@@ -384,7 +388,7 @@
         "Translation": ""
     },
     {
-        "Roman": "HACHOL",
+        "Roman": "HACOL",
         "Translation": "Hashr"
     },
     {
@@ -688,7 +692,7 @@
         "Translation": "(Can) Will be recognised"
     },
     {
-        "Roman": "KRAHITSAHZ",
+        "Roman": "KRAHKRAHZ",
         "Translation": ""
     },
     {
@@ -1000,10 +1004,6 @@
         "Translation": ""
     },
     {
-        "Roman": "NICWNAL",
-        "Translation": ""
-    },
-    {
         "Roman": "NID",
         "Translation": "Demand"
     },
@@ -1080,7 +1080,7 @@
         "Translation": "If Will Not Listen"
     },
     {
-        "Roman": "NIKCDUTSICED",
+        "Roman": "NIKCDUTSOCED",
         "Translation": ""
     },
     {
@@ -1162,6 +1162,10 @@
     {
         "Roman": "NIKCTRASPED",
         "Translation": "Not Assume"
+    },
+    {
+        "Roman": "NIKCWNAL",
+        "Translation": ""
     },
     {
         "Roman": "NISAHNOCES",
@@ -1260,7 +1264,7 @@
         "Translation": ""
     },
     {
-        "Roman": "PAHEKIFNIF",
+        "Roman": "PAHESKIFNIF",
         "Translation": "To Expand"
     },
     {
@@ -1288,8 +1292,8 @@
         "Translation": "To Abandon/Leave"
     },
     {
-        "Roman": "PAHNIKCRECOS",
-        "Translation": "Will not Be/Have Potential?"
+        "Roman": "PAHNIKCREDOS",
+        "Translation": "(Will) Not be/Have Potential?"
     },
     {
         "Roman": "PAHNILED",
@@ -1772,16 +1776,16 @@
         "Translation": ""
     },
     {
-        "Roman": "TEDISRAHES",
-        "Translation": ""
-    },
-    {
         "Roman": "TEFETS",
         "Translation": "Defend"
     },
     {
         "Roman": "TEFETSOS",
         "Translation": "Will Defend"
+    },
+    {
+        "Roman": "TEFISRAHES",
+        "Translation": ""
     },
     {
         "Roman": "TEFRIS",

@@ -170,13 +170,21 @@ class EditWindow(QWidget):
         self.word = word
         self.window = window
 
-        self.setWindowTitle(f"Edit: {word.Roman}")
+        self.setWindowTitle(f"Edit")
 
         layout = QVBoxLayout()
-
-        self.input = QLineEdit()
-        self.input.setText(word.Translation if word.Translation else "")
-        layout.addWidget(self.input)
+        self.Rinput = QLineEdit()
+        self.Rinput.setText(word.Roman)
+        layout.addWidget(self.Rinput)
+        
+        self.preview = GlyphWidget()
+        self.preview.setMinimumHeight(25)
+        layout.addWidget(self.preview)
+        self.preview.setText(self.Rinput.text())
+        
+        self.Tinput = QLineEdit()
+        self.Tinput.setText(word.Translation if word.Translation else "")
+        layout.addWidget(self.Tinput)
 
         self.save_btn = QPushButton("Save")
         self.save_btn.clicked.connect(self.save)
@@ -185,7 +193,8 @@ class EditWindow(QWidget):
         self.setLayout(layout)
 
     def save(self):
-        self.word.Translation = self.input.text()
+        self.word.Roman = self.Rinput.text().upper()
+        self.word.Translation = self.Tinput.text()
         self.window.update_dict()
         self.close()
         Dict.SaveDict()
