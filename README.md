@@ -39,4 +39,4 @@ Each entry has an edit option allowing you to edit the translation, but not the 
 Each entry also has a button to delete it if you accidently add a miss-typed word.
 
 
-When you have modified the dictionary make a push request with the JSON file to this github page, and it should go through. If you can't do this send the json file to me on discord (Myst3350) and i'll commit the changes myself.
+When you have modified the dictionary make a push request with the JSON file to this github page, and it should go through. If you can't do this send the json file to me on discord and i'll commit the changes myself.
