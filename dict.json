@@ -88,8 +88,8 @@
         "Translation": ""
     },
     {
-        "Roman": "AKCNOVMOSED",
-        "Translation": "\"Tree ??? will able\""
+        "Roman": "AKCNOFMOSED",
+        "Translation": "\"Tree ??? Will Able\""
     },
     {
         "Roman": "AL",
@@ -204,7 +204,7 @@
         "Translation": ""
     },
     {
-        "Roman": "COV",
+        "Roman": "COF",
         "Translation": "With"
     },
     {
@@ -844,16 +844,16 @@
         "Translation": ""
     },
     {
+        "Roman": "LEFTUL",
+        "Translation": "To Deserve?"
+    },
+    {
         "Roman": "LETSED",
         "Translation": "To Follow"
     },
     {
         "Roman": "LETSEDOS",
         "Translation": "Will Follow"
-    },
-    {
-        "Roman": "LEVTUL",
-        "Translation": "To Deserve?"
     },
     {
         "Roman": "LID",
@@ -1316,11 +1316,11 @@
         "Translation": "To Build"
     },
     {
-        "Roman": "PAHREKSH",
+        "Roman": "PAHREKC",
         "Translation": "To Give"
     },
     {
-        "Roman": "PAHRIVTOD",
+        "Roman": "PAHRIFTOD",
         "Translation": "To Return"
     },
     {
@@ -1764,7 +1764,7 @@
         "Translation": "My (Directive) Orders \"I Command ???\""
     },
     {
-        "Roman": "TAHREVETS",
+        "Roman": "TAHREFETS",
         "Translation": ""
     },
     {
@@ -1824,7 +1824,7 @@
         "Translation": "You"
     },
     {
-        "Roman": "TOFCEV",
+        "Roman": "TOFCEF",
         "Translation": "(You) Are"
     },
     {

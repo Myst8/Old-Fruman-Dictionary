@@ -278,7 +278,7 @@ class DictView(QScrollArea):
         layout = QVBoxLayout()
         word_list.sort(key = self.DictSort)
         for word in word_list:
-            if window.display.text == word.Roman[:len(window.display.text)]: 
+            if window.display.text in word.Roman: 
                 row = WordRow(word, window)
                 layout.addWidget(row)
 
